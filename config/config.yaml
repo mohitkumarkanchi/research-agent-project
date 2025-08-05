@@ -1,0 +1,6 @@
+semantic_scholar_api: "https://api.semanticscholar.org/graph/v1/paper/search"
+ollama_server_url: "http://localhost:11434"
+embedding_model_name: "sentence-transformers/all-MiniLM-L6-v2"
+chunk_size: 512
+chunk_overlap: 50
+faiss_index_path: "data/faiss.index"

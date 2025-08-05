@@ -1,0 +1,41 @@
+# Python cache and virtual env
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+env/
+venv/
+*.env
+*.egg
+.Python
+
+# Conda environment / YAML
+environment.yml
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode files (optional)
+.vscode/
+
+# FAISS index file
+data/faiss.index
+
+# Logs
+*.log
+
+# Docker
+*.dockerignore
+
+# IDE files
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

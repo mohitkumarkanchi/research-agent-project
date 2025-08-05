@@ -1,0 +1,11 @@
+requests
+sentence-transformers
+faiss-cpu
+llama-index>=0.10.12
+langgraph>=0.3.27
+langchain-ollama
+httpx
+pyyaml
+uvicorn
+structlog
+tenacity

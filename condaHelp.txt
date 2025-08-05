@@ -1,0 +1,3 @@
+conda activate research_agent_env
+conda deactivate
+conda remove --name research_agent_env --all
