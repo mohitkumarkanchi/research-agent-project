@@ -4,3 +4,4 @@ embedding_model_name: "sentence-transformers/all-MiniLM-L6-v2"
 chunk_size: 512
 chunk_overlap: 50
 faiss_index_path: "data/faiss.index"
+cached_papers_path: "data/papers.parquet"
